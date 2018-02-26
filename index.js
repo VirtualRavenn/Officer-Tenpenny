@@ -6,7 +6,7 @@ client.on("message", message => {
 });
 
 client.on("message", message => {
-  if (message.author.id === "415330227451985920") message.reply("Come on, assholes.");
+  if (message.author.id === "415330227451985920") message.reply("Come on, **assholes.**");
 });
 
 client.on("message", message => {
